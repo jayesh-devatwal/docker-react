@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Docker Testing !
-          Hello, New update..!
-          This is with docker.yml
+            New Branch
         </p>
         <a
           className="App-link"
